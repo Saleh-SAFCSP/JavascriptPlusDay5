@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "KUDO",
+    "address": { "city": "Riyadh", "street": "Main street" },
+    "averageMealPrice": 20,
+    "branches": ["main", "secondary"],
+    "closed": false
+  },
+  {
+    "id": 2,
+    "name": "KFC",
+    "address": { "city": "Riyadh", "street": "Main street" },
+    "averageMealPrice": 30,
+    "branches": ["main", "secondary"],
+    "closed": false
+  }
+]
